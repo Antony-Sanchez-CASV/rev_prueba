@@ -1,0 +1,58 @@
+#seccion1{
+    display:flex;
+   color:#6138F6
+    
+}
+#seccion1 a{
+    text-decoration: none;
+}
+#seccion1 ul{
+    display:flex;
+    list-style: none;
+
+}
+#seccion1 li{
+    padding: 10px;
+}
+nav{
+    background-color: #C3aecd;
+
+}
+
+
+.body{
+    background-color: gray;
+    color:#6138F6;
+}
+.container{
+    color:#6138F6;
+}
+h1{
+    color:#6138F6;
+}
+h2{
+    color:#28326b ;
+}
+.ladoB{
+    background-image: url(images/Pastillas.png);
+    background-repeat:no-repeat;
+    background-size:contain;
+}   
+.Presentation{
+    background-image: url(images/set-virtual.png);
+    background-repeat: none;
+    background-size: cover;
+
+}
+.btn-outline{
+    color: #6138F6;
+    border-radius: 5px;
+    border-color: #6138F6;
+}
+.btn{
+    background-color: #6138F6;
+    color:white;
+}
+h5{
+    text-decoration: solid;
+}
